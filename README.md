@@ -40,19 +40,26 @@ Alternatively, download the files and follow these instructions:
      * Press Win + R to open the Run dialog box.
      * Type cmd and press Enter to open the Command Prompt.
 * Change Directory (cd):
+  
      * In the Command Prompt, use the cd command to navigate to the directory where the files were extracted.
+
        ```
        cd path_to_directory
        ```
+       
      * Replace path_to_directory with the actual path to the directory where you extracted the files. For example:
+
        ```
        cd C:\Users\YourUsername\Downloads\HandGestureGame
        ```
+       
 * Run Python Script:
      * Once you are in the correct directory containing the HandGesture.py script, run the script by entering the following command:
+
        ```
        python HandGesture.py
        ```
+       
 
 ##### NOTE: Need to optimize the code
 
